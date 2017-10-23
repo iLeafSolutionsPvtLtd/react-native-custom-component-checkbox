@@ -4,7 +4,7 @@
 	"private": false,
 	"scripts": {
 		"start": "node node_modules/react-native/local-cli/cli.js start",
-		"test": "jest"
+		"test" : "jest"
 	},
 	"dependencies": {
 		"react": "16.0.0-beta.5",
@@ -20,12 +20,13 @@
 		"preset": "react-native"
 	},
 	"keywords": [
+		"react-native",
     "react native checkbox",
     "react native custom checkbox",
     "react-native checkbox components"
   ],
-    "repository" :{
-        "type" : "git",
-        "url" : "https://github.com/ileafsolutions/npm_sample_app"
-  },
+  "repository" :{
+    "type" : "git",
+    "url" : "https://github.com/iLeafSolutionsPvtLtd/react-native-custom-component-checkbox.git"
+  }
 }
