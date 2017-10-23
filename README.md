@@ -32,15 +32,17 @@ let data=[{typedValue:1,isTextInputField:false,isRequired:true,label:"first item
 
 ## Props:
 
+  ` * ` - mandatory
+
 Props Name | Description
 ---------- | -----------
-`label` | text that will be displayed along the checkbox
+`  label` | text that will be displayed along the checkbox
 `* dataSource` | describes parameters in an array for the custom components
 `* onItemChecked` | function defined to get a call back when each component whether selected or not
-`itemShowKey` | describes the text to be displayed for each checkbox
-`itemCheckedKey` | check condition whether a checkbox selected or not
-`labelHorizontal` | align label horizontal with the checkbox
-`textInputStyle` | user could define the styles for the text input
-`imageStyle` | user could define styles for the image
-`checkboxStyle` | user could define styles for checkbox
-`contentContainerStyle` | style object that will be applied to the container
+`  itemShowKey` | describes the text to be displayed for each checkbox
+`  itemCheckedKey` | check condition whether a checkbox selected or not
+`  labelHorizontal` | align label horizontal with the checkbox
+`  textInputStyle` | user could define the styles for the text input
+`  imageStyle` | user could define styles for the image
+`  checkboxStyle` | user could define styles for checkbox
+`  contentContainerStyle` | style object that will be applied to the container
