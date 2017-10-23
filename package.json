@@ -1,32 +1,32 @@
 {
-  "name": "react-native-custom-component-checkbox",
-  "version": "0.0.2",
-  "private": false,
-  "scripts": {
-    "start": "node node_modules/react-native/local-cli/cli.js start",
-    "test": "jest"
-  },
-  "dependencies": {
-    "react": "16.0.0-beta.5",
-    "react-native": "0.49.3"
-  },
-  "devDependencies": {
-    "babel-jest": "21.2.0",
-    "babel-preset-react-native": "4.0.0",
-    "jest": "21.2.1",
-    "react-test-renderer": "16.0.0-beta.5"
-  },
-  "jest": {
-    "preset": "react-native"
-  },
-  "keywords": [
-    "react-native",
+	"name": "react-native-custom-component-checkbox",
+	"version": "0.0.3",
+	"private": false,
+	"scripts": {
+		"start": "node node_modules/react-native/local-cli/cli.js start",
+		"test" : "jest"
+	},
+	"dependencies": {
+		"react": "16.0.0-beta.5",
+		"react-native": "0.49.3"
+	},
+	"devDependencies": {
+		"babel-jest": "21.2.0",
+		"babel-preset-react-native": "4.0.0",
+		"jest": "21.2.1",
+		"react-test-renderer": "16.0.0-beta.5"
+	},
+	"jest": {
+		"preset": "react-native"
+	},
+	"keywords": [
+		"react-native",
     "react native checkbox",
     "react native custom checkbox",
     "react-native checkbox components"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/iLeafSolutionsPvtLtd/react-native-custom-component-checkbox.git"
+  "repository" :{
+    "type" : "git",
+    "url" : "https://github.com/iLeafSolutionsPvtLtd/react-native-custom-component-checkbox.git"
   }
 }
